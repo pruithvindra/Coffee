@@ -1,16 +1,3 @@
-# coffee
+🌟 Inspired by Kingsley Orji incredible App UI/UX post on LinkedIn https://shorturl.at/iKOY0 , and made this cool UIUX into mobile app using Flutter! 🔥 . While I put my spin on it, their design sparked my creativity and fueled my passion 💡🚀 #UIUX #Flutter #Inspiration #mobileapp
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://www.linkedin.com/feed/update/urn:li:activity:7190199193519489024?utm_source=share&utm_medium=member_desktop
